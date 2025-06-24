@@ -1,0 +1,4 @@
+psycopg2-binary>=2.9
+dnslib>=0.9.10
+PyYAML>=5.4
+expiringdict>=1.2.2
